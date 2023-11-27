@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/next.bmp</file>
+        <file>res/open.bmp</file>
+        <file>res/pause.bmp</file>
+        <file>res/previous.bmp</file>
+        <file>res/start.bmp</file>
+    </qresource>
+</RCC>
