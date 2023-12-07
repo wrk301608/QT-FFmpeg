@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ScreenCapWidget</class>
+ <widget class="QWidget" name="ScreenCapWidget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>474</width>
+    <height>92</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>ScreenCapWidget</string>
+  </property>
+  <widget class="QWidget" name="layoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>20</y>
+     <width>293</width>
+     <height>30</height>
+    </rect>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout">
+    <item>
+     <widget class="QPushButton" name="start_btn">
+      <property name="text">
+       <string>开始截屏</string>
+      </property>
+      <property name="shortcut">
+       <string/>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="open_btn">
+      <property name="text">
+       <string>默认位置</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
