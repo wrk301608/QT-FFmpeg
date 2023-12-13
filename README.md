@@ -27,9 +27,19 @@
 
 > - PlayImage:使用绘图事件实现的图像播放器控件，可复用
 
+## TyporaTools
+
+> - 使用QT和FFmpeg实现的博客资源工具
+> - 支持截图
+> - 支持GIF制作
+> - 支持视频录制
+> - 支持代码统计
+> - 支持日志系统
+
 ## QtDemo
 
 > - MinTray：实现Qt程序最小化到托盘运行
+> - Log：使用C++和QT实现的简易日志库
 
 ## ScreenCap
 
